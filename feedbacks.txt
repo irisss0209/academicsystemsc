@@ -1,0 +1,4 @@
+4,2024-04-04,102,"Best lecturer ever!",""
+3,2024-04-03,101,"hello",""
+2,2024-04-02,102,"I dont understand the assignment",""
+1,2024-04-01,101,"Great lecture!",""

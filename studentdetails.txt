@@ -1,0 +1,2 @@
+1001,Miyeon,Cho,1234567890,1997-01-31,International,F,3.00,F
+1002,Soyeon,Jeon,987654321,1998-08-26,Local,F,3.20,D1
